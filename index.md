@@ -31,5 +31,7 @@ I'm always interested in hearing about new opportunities and collaborations.
 - 🐙 GitHub: [github.com/yourusername](https://github.com/yourusername)
 
 ---
-
+## Navigation
+- [About](about)
+- [Projects](projects)
 *Last updated: September 2025*
