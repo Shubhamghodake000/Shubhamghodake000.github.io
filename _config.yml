@@ -1,11 +1,14 @@
 title: Shubham Ghodake
-description:  PhD Scholar,IISc Banglore
+description: PhD Scholar | IISc Bangalore
 theme: jekyll-theme-cayman
 
-# Social links (optional)
+# Personal Info
 github_username: Zeus9637353238
-linkedin_username: https://www.linkedin.com/in/shubham-ghodake-2b7a221b1
 email: sgshubham@iisc.ac.in
+linkedin_username: shubham-ghodake-2b7a221b1
+
+# Google Scholar (if you have)
+# google_scholar: your-scholar-id
 
 # Build settings
 markdown: kramdown
