@@ -5,48 +5,50 @@ title: About Me
 
 # About Me
 
-## Background
+## Education
 
-I'm a [profession] with [X] years of experience in [your field]. I graduated from [University] with a degree in [your degree].
+### PhD in [Your Field]
+**Indian Institute of Science (IISc), Bangalore**  
+*[Start Year] - Present*  
+- Advisor: [Professor Name]
+- Research Focus: [Brief description]
+- Thesis Topic: [Your thesis title or topic]
+
+### Master's/Bachelor's Degree
+**[University Name]**  
+*[Start Year] - [End Year]*  
+- Major: [Your Major]
+- CGPA/Percentage: [If you want to include]
+- Thesis/Project: [Title if applicable]
+
+## Academic Background
+[Write a paragraph about your academic journey, what led you to pursue PhD, your passion for your field]
 
 ## Skills
 
-**Programming Languages:**
-- JavaScript, Python, Java, C++
+**Technical Skills:**
+- Programming Languages: Python, MATLAB, R, C++
+- Tools & Frameworks: TensorFlow, PyTorch, OpenCV, etc.
+- Laboratory Skills: [If applicable]
+- Software: LaTeX, Git, etc.
 
-**Frameworks & Tools:**
-- React, Node.js, Django, Git, Docker
+**Research Skills:**
+- Literature Review & Analysis
+- Experimental Design
+- Data Analysis & Visualization
+- Scientific Writing
+- Peer Review
 
-**Other Skills:**
-- UI/UX Design, Project Management, Technical Writing
+## Awards & Honors
+- **[Award Name]** - [Organization], [Year]
+- **[Fellowship Name]** - [Organization], [Year]
+- **[Recognition]** - [Organization], [Year]
 
-## Experience
+## Professional Service
+- Reviewer for [Journal/Conference Names]
+- Member of [Professional Organizations]
+- Volunteer at [Events/Organizations]
 
-### Current Position
-**[Job Title]** at [Company Name]  
-*[Start Date] - Present*
-
-- Achievement or responsibility one
-- Achievement or responsibility two
-- Achievement or responsibility three
-
-### Previous Position
-**[Job Title]** at [Company Name]  
-*[Start Date] - [End Date]*
-
-- Achievement or responsibility one
-- Achievement or responsibility two
-
-## Interests
-
-When I'm not coding, you can find me:
-- 📚 Reading science fiction novels
-- 🎮 Playing video games
-- 🏃 Running and staying active
-- ✈️ Traveling to new places
-
-## Let's Connect
-
-Feel free to reach out if you'd like to collaborate or just chat!
 ---
-[← Back to Home](/)
+
+[← Back to Home](/) | [View CV](cv)
