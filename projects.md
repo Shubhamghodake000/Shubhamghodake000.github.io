@@ -36,3 +36,5 @@ Here are some projects I've worked on recently.
 ---
 
 Want to collaborate on a project? [Get in touch!](mailto:your.email@example.com)
+---
+[← Back to Home](/)
