@@ -32,6 +32,8 @@ I'm always interested in hearing about new opportunities and collaborations.
 
 ---
 ## Navigation
-- [About](about)
-- [Projects](projects)
+- [About](/about)
+- [Projects](/projects)
+
+  
 *Last updated: September 2025*
