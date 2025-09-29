@@ -3,37 +3,32 @@ layout: default
 title: Home
 ---
 
-# Hi, I'm [Your Name] 👋
+# Shubham Ghodake
 
-I'm a [your profession/title] based in [your location]. I'm passionate about [your interests/specialties].
+**PhD Scholar**  
+Indian Institute of Science (IISc), Bangalore
 
-## What I Do
+## About Me
+I am a PhD scholar at IISc Bangalore working in [Your Department/Lab]. My research focuses on [brief 1-2 sentence description of your research area].
 
-I specialize in:
-- **Web Development** - Building responsive and user-friendly websites
-- **Design** - Creating beautiful and intuitive user interfaces
-- **Problem Solving** - Turning complex challenges into elegant solutions
+## Research Interests
+- Research Area 1
+- Research Area 2
+- Research Area 3
+- Research Area 4
 
-## Featured Projects
+## Quick Links
+- 📄 [Publications](publications)
+- 🔬 [Research](research)
+- 👨‍🏫 [Teaching](teaching)
+- 📧 [Contact](contact)
 
-### Project One
-A brief description of your amazing project. [View on GitHub](https://github.com/yourusername/project)
-
-### Project Two
-Another cool project you've worked on. [View on GitHub](https://github.com/yourusername/project2)
-
-## Get In Touch
-
-I'm always interested in hearing about new opportunities and collaborations.
-
-- 📧 Email: [your.email@example.com](mailto:your.email@example.com)
-- 💼 LinkedIn: [linkedin.com/in/yourname](https://linkedin.com/in/yourname)
-- 🐙 GitHub: [github.com/yourusername](https://github.com/yourusername)
+## Recent Updates
+- **[Date]** - Paper accepted at [Conference/Journal Name]
+- **[Date]** - Presented at [Conference Name]
+- **[Date]** - Started as Teaching Assistant for [Course Name]
 
 ---
-## Navigation
-- [About](/about)
-- [Projects](/projects)
 
-  
-*Last updated: September 2025*
+## Navigation
+[About](about) | [Research](research) | [Publications](publications) | [Teaching](teaching) | [CV](cv) | [Contact](contact)
