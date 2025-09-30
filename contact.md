@@ -2,7 +2,9 @@
 layout: default
 title: Contact
 ---
+[About](about) | [Research](research) | [Publications](publications) | [Teaching](teaching) | [CV](cv) | [Contact](contact)
 
+---
 # Contact Me
 
 I'm always happy to discuss research collaborations, academic opportunities, or answer questions about my work.
@@ -51,5 +53,3 @@ If you're considering working with my research group or advisor, please:
 3. Send an email with your CV and research interests
 
 ---
-
-[← Back to Home](/)
