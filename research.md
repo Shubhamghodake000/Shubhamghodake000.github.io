@@ -2,7 +2,9 @@
 layout: default
 title: Research
 ---
+[About](about) | [Research](research) | [Publications](publications) | [Teaching](teaching) | [CV](cv) | [Contact](contact)
 
+---
 # Research
 
 ## Current Research
@@ -68,4 +70,3 @@ title: Research
 
 ---
 
-[← Back to Home](/) | [View Publications](publications)
