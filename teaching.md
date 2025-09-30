@@ -2,7 +2,9 @@
 layout: default
 title: Teaching
 ---
+[About](about) | [Research](research) | [Publications](publications) | [Teaching](teaching) | [CV](cv) | [Contact](contact)
 
+---
 # Teaching Experience
 
 ## Teaching Assistantships
@@ -74,4 +76,3 @@ I am interested in teaching courses related to:
 
 ---
 
-[← Back to Home](/) | [Contact Me](contact)
