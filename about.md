@@ -2,7 +2,9 @@
 layout: default
 title: About Me
 ---
+[About](about) | [Research](research) | [Publications](publications) | [Teaching](teaching) | [CV](cv) | [Contact](contact)
 
+---
 # About Me
 
 ## Education
@@ -51,4 +53,3 @@ title: About Me
 
 ---
 
-[← Back to Home](/) | [View CV](cv)
