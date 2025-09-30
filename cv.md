@@ -2,7 +2,9 @@
 layout: default
 title: Curriculum Vitae
 ---
+[About](about) | [Research](research) | [Publications](publications) | [Teaching](teaching) | [CV](cv) | [Contact](contact)
 
+---
 # Curriculum Vitae
 
 **Shubham Ghodake**  
@@ -84,4 +86,4 @@ Indian Institute of Science (IISc), Bangalore
 
 ---
 
-[← Back to Home](/)
+
