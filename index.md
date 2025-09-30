@@ -2,6 +2,9 @@
 layout: default
 title: Home
 ---
+[About](about) | [Research](research) | [Publications](publications) | [Teaching](teaching) | [CV](cv) | [Contact](contact)
+
+---
 
 # Shubham Ghodake
 
@@ -30,5 +33,3 @@ I am a PhD scholar at IISc Bangalore working in [Your Department/Lab]. My resear
 
 ---
 
-## Navigation
-[About](about) | [Research](research) | [Publications](publications) | [Teaching](teaching) | [CV](cv) | [Contact](contact)
