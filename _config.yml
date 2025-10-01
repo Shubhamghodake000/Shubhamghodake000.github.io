@@ -9,13 +9,9 @@ plugins:
 
 # Navigation
 navbar-links:
-  Home: "index"
-  About: "about"
-  Research: "research"
-  Publications: "publications"
-  Teaching: "teaching"
-  CV: "cv"
-  Contact: "contact"
+  About Me: "index"
+  Research/Projects: "research"
+  Detailed CV: "cv"
 
 # Social
 github_username: Zeus9637353238
