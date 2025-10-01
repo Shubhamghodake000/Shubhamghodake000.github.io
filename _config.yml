@@ -1,6 +1,6 @@
 title: "Shubham S. Ghodake"
 description: "2nd Year PhD Student at IISc Bangalore | Tensor Analysis · Machine Learning · Optimization"
-theme: minima
+theme: jekyll-theme-leap-day
 url: "https://Zeus9637353238.github.io"
 markdown: kramdown
 plugins:
