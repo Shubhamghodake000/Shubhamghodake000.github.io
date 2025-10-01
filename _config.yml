@@ -1,7 +1,5 @@
-# Build settings
-markdown: kramdown
-title: "Shubham Ghodake"
-description: "2nd Year PhD Student at IISc Bangalore | Machine Learning · Computer Vision · [Your Area]"
+title: "Shubham S. Ghodake"
+description: "2nd Year PhD Student at IISc Bangalore | Tensor Analysis · Machine Learning · Optimization"
 theme: minima
 url: "https://Zeus9637353238.github.io"
 markdown: kramdown
@@ -11,6 +9,7 @@ plugins:
 
 # Navigation
 navbar-links:
+  Home: "index"
   About: "about"
   Research: "research"
   Publications: "publications"
@@ -20,6 +19,5 @@ navbar-links:
 
 # Social
 github_username: Zeus9637353238
-linkedin_username:shubham-ghodake-2b7a221b1
-#scholar_url: [your-scholar-profile-link]
+linkedin_username: shubham-ghodake-2b7a221b1
 email: sgshubham@iisc.ac.in
