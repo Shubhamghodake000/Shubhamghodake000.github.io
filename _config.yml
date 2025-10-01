@@ -1,5 +1,5 @@
 title: "Shubham S. Ghodake"
-description: "2nd Year PhD Student at IISc Bangalore | Tensor Analysis · Machine Learning · Optimization"
+description: "2nd Year PhD Student at IISc Bangalore | Tensor Analysis · Machine Learning · Quantum Computation"
 theme: jekyll-theme-minima
 url: "https://Zeus9637353238.github.io"
 markdown: kramdown
@@ -7,7 +7,7 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
 
-# Navigation
+# Navigation (Note: For Minima, navbar-links is not used by default)
 navbar-links:
   About Me: "index"
   Research/Projects: "research"
@@ -17,3 +17,9 @@ navbar-links:
 github_username: Zeus9637353238
 linkedin_username: shubham-ghodake-2b7a221b1
 email: sgshubham@iisc.ac.in
+
+# Minima theme customization (optional, adds a custom CSS file for future navbar styling)
+minima:
+  skin: classic
+  include_css:
+    - assets/css/custom.css
