@@ -1,14 +1,25 @@
-title: Shubham Ghodake
-description: PhD Scholar | IISc Bangalore
-theme: jekyll-theme-cayman
-
-# Personal Info
-github_username: Zeus9637353238
-email: sgshubham@iisc.ac.in
-linkedin_username: shubham-ghodake-2b7a221b1
-
-# Google Scholar (if you have)
-# google_scholar: your-scholar-id
-
 # Build settings
 markdown: kramdown
+title: "Shubham Ghodake"
+description: "2nd Year PhD Student at IISc Bangalore | Machine Learning · Computer Vision · [Your Area]"
+theme: minima
+url: "https://Zeus9637353238.github.io"
+markdown: kramdown
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# Navigation
+navbar-links:
+  About: "about"
+  Research: "research"
+  Publications: "publications"
+  Teaching: "teaching"
+  CV: "cv"
+  Contact: "contact"
+
+# Social
+github_username: Zeus9637353238
+linkedin_username:shubham-ghodake-2b7a221b1
+#scholar_url: [your-scholar-profile-link]
+email: sgshubham@iisc.ac.in
