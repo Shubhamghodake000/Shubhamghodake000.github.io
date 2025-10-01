@@ -5,6 +5,14 @@ title: About Me
 
 # About Me
 
+Hello! I am Shubham S. Ghodake, currently a 2nd year PhD student in Computational & Data Sciences at the Indian Institute of Science (IISc), Bangalore. My research focuses on **tensor analysis and its applications**, as well as broader areas in machine learning and optimization.
+
+I earned my M.Sc. in Mathematics from Banaras Hindu University (CGPA: 8.25/10), and my B.Sc. in Mathematics from Abasaheb Garware College, Pune, where I graduated top of my class. My academic journey has been driven by a curiosity to understand complex systems and a passion for applying mathematical insights to data-driven science.
+
+Alongside my studies, I have worked as an Assistant Professor at Dr. D.Y. Patil Institute of Technology, and actively participated in national-level workshops and certifications.
+
+Outside academics, I enjoy outreach, collaboration, and engaging with the broader scientific community. I am always open to new connections and opportunities for collaboration.
+
 ---
 
 ## 🎓 Education
