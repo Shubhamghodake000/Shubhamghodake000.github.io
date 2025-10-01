@@ -5,11 +5,12 @@ title: Home
 
 <div align="center">
 
-# Shubham Ghodake
+# Shubham S. Ghodake
 
 **2nd Year PhD Student**  
+Department of Computational & Data Sciences  
 Indian Institute of Science (IISc), Bangalore  
-[Email Me](mailto:your.email@iisc.ac.in) · [CV](cv) · [Google Scholar](#) · [GitHub](https://github.com/Zeus9637353238)
+[Email](mailto:sgshubham@iisc.ac.in) · [CV](cv) · [LinkedIn](https://www.linkedin.com/in/shubham-ghodake-2b7a221b1/) · [GitHub](https://github.com/Zeus9637353238)
 
 </div>
 
@@ -17,16 +18,17 @@ Indian Institute of Science (IISc), Bangalore
 
 ## 👋 Welcome!
 
-I'm a second-year PhD student at IISc Bangalore in the [Your Department/Lab]. My research is at the intersection of **[your broad research area, e.g., Machine Learning and Computer Vision]**, focusing on **[one-liner about your specific topic]**.
+I am a second-year PhD student at IISc Bangalore in the Department of Computational & Data Sciences. My research interests include **tensor analysis, machine learning, and mathematical optimization**. I am passionate about exploring the intersection of mathematics and data-driven approaches to solve real-world problems.
 
 ---
 
 ## 🚀 Research Interests
 
-- [Main Research Area 1]
-- [Main Research Area 2]
-- [Main Research Area 3]
-- [Main Research Area 4]
+- Tensor Analysis & Applications
+- Machine Learning & Deep Learning
+- Multi-objective Optimization
+- Clustering
+- [reserved for future interest]
 
 ---
 
