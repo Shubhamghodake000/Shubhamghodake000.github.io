@@ -1,18 +1,41 @@
 ---
-layout: page
-title: "About Me"
-permalink: /
+layout: default
+title: Home
 ---
 
-# About Me
+# Shubham S. Ghodake
 
-Hello! I am **Shubham S. Ghodake**, a 2nd Year PhD Student at IISc Bangalore.
+## About Me
 
-My research interests include:
-- Tensor Analysis
-- Machine Learning
-- Optimization
+I am a second-year PhD student at the **Indian Institute of Science (IISc) Bangalore**, where I work at the intersection of mathematics, computation, and quantum information theory. My research focuses on **tensor analysis**, **machine learning**, and **quantum computation**.
 
-I am passionate about advancing the field of artificial intelligence through robust mathematical foundations and innovative algorithmic approaches. My academic journey is driven by curiosity and a commitment to impactful research.
+### Research Interests
 
-Feel free to explore my research projects and detailed CV using the navigation bar above.
+- **Tensor Analysis**: Exploring tensor decompositions and their applications in data science and quantum systems
+- **Machine Learning**: Developing algorithms that leverage tensor methods for efficient learning
+- **Quantum Computation**: Investigating quantum algorithms and quantum machine learning approaches
+
+### Education
+
+**PhD in [Your Department]** (2023 - Present)  
+Indian Institute of Science (IISc), Bangalore  
+*Advisor: [Your Advisor's Name]*
+
+**[Your Master's/Bachelor's Degree]** ([Year])  
+[Your Previous Institution]
+
+### News & Updates
+
+- **[Date]**: Presented at [Conference/Seminar Name]
+- **[Date]**: Paper accepted at [Conference/Journal Name]
+- **[Date]**: Started PhD at IISc Bangalore
+
+### Contact
+
+**Email**: [sgshubham@iisc.ac.in](mailto:sgshubham@iisc.ac.in)  
+**GitHub**: [Zeus9637353238](https://github.com/Zeus9637353238)  
+**LinkedIn**: [Shubham Ghodake](https://linkedin.com/in/shubham-ghodake-2b7a221b1)
+
+---
+
+*Last updated: October 2024*
