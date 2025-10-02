@@ -16,6 +16,10 @@ github_username: Zeus9637353238
 linkedin_username: shubham-ghodake-2b7a221b1
 email: sgshubham@iisc.ac.in
 
+# Include custom header
+include:
+  - _includes
+
 # Exclude files from the build
 exclude:
   - Gemfile
