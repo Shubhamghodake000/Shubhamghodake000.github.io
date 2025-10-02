@@ -12,10 +12,11 @@ title: Curriculum Vitae
 ## Shubham S. Ghodake
 
 **PhD Student**  
-Department of [Your Department]  
-Indian Institute of Science (IISc), Bangalore
+Department of Computational & Data Sciences  
+Indian Institute of Science (IISc), Bangalore, India
 
 **Email**: sgshubham@iisc.ac.in  
+**Phone**: (+91) 9637353238  
 **GitHub**: [Zeus9637353238](https://github.com/Zeus9637353238)  
 **LinkedIn**: [Shubham Ghodake](https://linkedin.com/in/shubham-ghodake-2b7a221b1)
 
@@ -23,22 +24,19 @@ Indian Institute of Science (IISc), Bangalore
 
 ## Education
 
-**Doctor of Philosophy (PhD)** | 2023 - Present  
-*Department of [Your Department]*  
+**Doctor of Philosophy (PhD) in Engineering** | 2024 - Present  
+*Computational and Data Science*  
 Indian Institute of Science (IISc), Bangalore, India  
-**Advisor**: [Your Advisor's Name]  
-**Thesis**: [Your Thesis Title]  
-**CGPA**: X.XX/10.00
+**Thesis**: Tensor Analysis & Applications (tentative)  
+**Supervisor**: Dr. Ratikanta Behera
 
-**Master of Science/Technology** | [Year] - [Year]  
-*[Your Department]*  
-[Your Previous Institution]  
-**CGPA/Percentage**: X.XX/10.00 or XX%
+**Master of Science (M.Sc.) in Mathematics** | 2022  
+*Banaras Hindu University*, Varanasi, India  
+**CGPA**: 8.25/10.00
 
-**Bachelor of Science/Technology** | [Year] - [Year]  
-*[Your Department]*  
-[Your Undergraduate Institution]  
-**CGPA/Percentage**: X.XX/10.00 or XX%
+**Bachelor of Science (B.Sc.) in Mathematics** | 2020  
+*Abasaheb Garware College*, Pune, Maharashtra, India  
+**Percentage**: 92.91%
 
 ---
 
@@ -47,138 +45,105 @@ Indian Institute of Science (IISc), Bangalore, India
 - Tensor Analysis and Tensor Decomposition Methods
 - Machine Learning and Deep Learning
 - Quantum Computation and Quantum Information Theory
-- Quantum Machine Learning
-- Tensor Networks and Many-Body Physics
+- Computational Mathematics
+- Data Science and Scientific Computing
 
 ---
 
-## Research Experience
+## Work Experience
 
-**PhD Researcher** | IISc Bangalore | Aug 2023 - Present  
-*Advisor: [Your Advisor's Name]*
-- Working on tensor methods for quantum computation
-- Developing machine learning algorithms using tensor decompositions
-- Investigating applications in quantum state tomography
-
-**Research Intern** | [Organization] | [Duration]  
-*Supervisor: [Supervisor Name]*
-- Brief description of work
-- Key achievements or findings
-
-**Summer Research Fellow** | [Organization] | [Duration]  
-*Supervisor: [Supervisor Name]*
-- Brief description of work
+**Assistant Professor** | Nov 2022 - Jun 2024  
+*Dr. D.Y. Patil Institute of Technology*
+- Taught undergraduate mathematics courses
+- Developed course materials and assessments
+- Mentored students in academic projects
 
 ---
 
-## Publications
+## Academic Achievements
 
-### Journal Articles
+**2024**  
+- Qualified **GATE 2024** (Paper Code: MA)
 
-1. **[Paper Title]**  
-   Authors: [Author List]  
-   *Journal Name*, Volume(Issue), Pages, Year  
-   DOI: [DOI Link]
+**2023**  
+- Qualified **CSIR NET for JRF** (December 2023) with **All India Rank 193** (Paper Code: MA)
+- Qualified **CSIR NET for JRF** (June 2023) with **All India Rank 237** (Paper Code: MA)
+- Qualified **Maharashtra SET Exam** for Assistant Professor (March 2023) (Paper Code: MA)
 
-### Conference Papers
+**2022**  
+- Qualified **CSIR NET for Lectureship** (June 2022) with **All India Rank 165** (Paper Code: MA)
 
-1. **[Paper Title]**  
-   Authors: [Author List]  
-   *Conference Name*, Year  
-   [[PDF]](#) [[arXiv]](#)
+**2020**  
+- Awarded **Late Padmashree Dr. Abasaheb Garware Memorial Award** for securing First place among all subjects at final year B.Sc.
 
-2. **[Paper Title]**  
-   Authors: [Author List]  
-   *Conference Name*, Year
-
-### Preprints & Working Papers
-
-1. **[Paper Title]**  
-   Authors: [Author List]  
-   arXiv:XXXX.XXXXX, Year
+**2018**  
+- Attended **mini-MTTS program** at Pune organized by National Board for Higher Mathematics (November 2018)
 
 ---
 
 ## Technical Skills
 
-**Programming Languages**: Python, C++, MATLAB, Julia, R
+**Programming Languages**: Python, MATLAB, R
 
-**Machine Learning**: TensorFlow, PyTorch, scikit-learn, Keras
+**Machine Learning & Data Science**: TensorFlow, PyTorch, scikit-learn, NumPy, Pandas
 
-**Quantum Computing**: Qiskit, Cirq, PennyLane
+**Quantum Computing**: Qiskit, Cirq
 
-**Scientific Computing**: NumPy, SciPy, Pandas, JAX
+**Mathematical Software**: SAGEMATH, Mathematica
 
-**Tensor Libraries**: TensorLy, TensorFlow, PyTorch
-
-**Tools & Technologies**: Git, LaTeX, Jupyter, Linux, CUDA
+**Tools & Technologies**: Git, LaTeX, Jupyter Notebooks, Linux
 
 ---
 
-## Teaching Experience
+## NPTEL Certifications
 
-**Teaching Assistant** | IISc Bangalore
-
-- **[Course Name]** ([Course Code]) | [Semester, Year]  
-  Instructor: [Professor Name]  
-  Responsibilities: Conducted tutorials, graded assignments, held office hours
-
-- **[Course Name]** ([Course Code]) | [Semester, Year]  
-  Instructor: [Professor Name]
+**2022**
+- Computational Mathematics with SAGEMATH
+- Laplace Transform
+- Programming Data Structures And Algorithms Using Python
 
 ---
 
-## Presentations & Talks
+## Publications
 
-1. **[Talk Title]**  
-   *[Conference/Seminar Name]*, [Location], [Date]
+### Conference Papers
 
-2. **[Poster Title]**  
-   *[Conference Name]*, [Location], [Date]
+*Coming soon...*
 
-3. **[Seminar Title]**  
-   *[Department Seminar]*, IISc Bangalore, [Date]
+### Journal Articles
 
----
-
-## Awards & Honors
-
-- **[Award Name]**, [Organization], [Year]
-- **[Fellowship Name]**, [Organization], [Year]
-- **[Scholarship Name]**, [Year]
-- **[Achievement]**, [Year]
-
----
-
-## Academic Service
-
-**Reviewer**: [Journal/Conference Names]
-
-**Student Volunteer**: [Conference Name], [Year]
-
-**Member**: [Professional Society], [Years]
-
----
-
-## Certifications & Courses
-
-- **[Certificate Name]**, [Platform/Institution], [Year]
-- **[Course Name]**, [Platform], [Year]
-- **[Workshop Name]**, [Year]
+*Coming soon...*
 
 ---
 
 ## Projects
 
-### [Project Name]
-*Duration: [Start] - [End]* | [Technologies Used]
+*Details of research projects will be updated soon...*
 
-Brief description of the project, its objectives, your role, and outcomes.
+---
 
-### [Project Name]
-*Duration: [Start] - [End]* | [Technologies Used]
+## Extra-Curricular Activities
 
-Brief description.
+**2018**  
+- Participated in the workshop on **'Alternative Pedagogical Approach towards Laboratory Education in Chemistry'**
+
+---
+
+## Teaching Experience
+
+**Teaching Assistant** | IISc Bangalore | 2024 - Present
+
+*Courses to be updated...*
+
+**Assistant Professor** | Dr. D.Y. Patil Institute of Technology | Nov 2022 - Jun 2024
+- Taught undergraduate mathematics courses
+- Developed curriculum and course materials
+
+---
+
+## Professional Memberships
+
+*To be updated...*
 
 ---
 
@@ -190,3 +155,4 @@ Available upon request.
 
 *Last Updated: October 2024*
 
+[← Back to Home](index.md) | [View Research](research.md)
