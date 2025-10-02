@@ -5,8 +5,6 @@ title: Research & Projects
 
 # Research & Projects
 
-[← Back to Home](index.md)
-
 ## Current Research
 
 ### PhD Research
@@ -109,5 +107,3 @@ Brief description of your research work.
 - [Collaborator 3], [Institution]
 
 ---
-
-[← Back to Home](index.md) | [View CV](cv.md)
