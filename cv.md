@@ -5,7 +5,7 @@ title: Curriculum Vitae
 
 # Curriculum Vitae
 
-[← Back to Home](index.md) | [Download PDF](#)
+[Download PDF](#)
 
 ---
 
@@ -190,4 +190,3 @@ Available upon request.
 
 *Last Updated: October 2024*
 
-[← Back to Home](index.md) | [View Research](research.md)
