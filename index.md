@@ -17,12 +17,12 @@ I am a second-year PhD student at the **Indian Institute of Science (IISc) Banga
 
 ### Education
 
-**PhD in [Your Department]** (2023 - Present)  
+**PhD: Department of Computational and Data Sciences** (2024 - Present)  
 Indian Institute of Science (IISc), Bangalore  
-*Advisor: [Your Advisor's Name]*
+*Advisor: Dr Ratikant Behera*
 
-**[Your Master's/Bachelor's Degree]** ([Year])  
-[Your Previous Institution]
+**M.SC: Department of Mathematics** (2020 - 2022)  
+Banaras Hindu University, Varanasi
 
 ### News & Updates
 
