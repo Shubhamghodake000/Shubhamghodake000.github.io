@@ -9,7 +9,7 @@ title: Curriculum Vitae
 
 ---
 
-## Shubham S. Ghodake
+## Shubham S. Ghodake 
 
 **PhD Student**  
 Department of Computational & Data Sciences  
