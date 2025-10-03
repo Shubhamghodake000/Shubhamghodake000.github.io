@@ -5,105 +5,56 @@ title: Research & Projects
 
 # Research & Projects
 
-## Current Research
+## Research Interests
 
-### PhD Research
-**Thesis Topic**: [Your Thesis Title]  
-**Advisor**: [Your Advisor's Name]  
-**Duration**: 2023 - Present
-
-My doctoral research explores the intersection of tensor methods, machine learning, and quantum computation. I am particularly interested in:
-
-- Developing efficient tensor decomposition algorithms for quantum state tomography
-- Applying machine learning techniques to quantum system simulation
-- Investigating tensor network methods for quantum many-body systems
+My primary research interests are in quantum computing, with a special focus on quantum linear algebra and quantum machine learning. I am currently pursuing a PhD, where I aim to contribute to the development and analysis of quantum algorithms relevant to these domains.
 
 ---
 
-## Publications
+## PhD Coursework
 
-### Conference Papers
-
-1. **[Paper Title]**  
-   *Authors*  
-   Conference Name, Year  
-   [[PDF]](#) [[arXiv]](#) [[Code]](#)
-
-2. **[Paper Title]**  
-   *Authors*  
-   Conference Name, Year  
-   [[PDF]](#) [[arXiv]](#)
-
-### Journal Articles
-
-1. **[Paper Title]**  
-   *Authors*  
-   Journal Name, Vol(Issue), Year  
-   [[PDF]](#) [[DOI]](#)
-
-### Preprints
-
-1. **[Paper Title]**  
-   *Authors*  
-   arXiv:XXXX.XXXXX, Year  
-   [[arXiv]](#)
+I have completed 24 credits of rigorous PhD-level coursework, including:
+- Quantum Computation and Information
+- Quantum Algorithms
+- Quantum Error Correction
+- (Add any other relevant advanced courses here)
 
 ---
 
 ## Projects
 
-### Project 1: [Project Name]
-**Duration**: [Start Date] - [End Date/Present]  
-**Technologies**: Python, TensorFlow, PyTorch, Qiskit
-
-Description of your project. What problem does it solve? What methods did you use? What were the key findings or results?
-
-[[GitHub]](#) [[Demo]](#) [[Report]](#)
-
-### Project 2: [Project Name]
-**Duration**: [Start Date] - [End Date/Present]  
-**Technologies**: Python, NumPy, SciPy
-
-Description of your project.
-
-[[GitHub]](#) [[Report]](#)
-
-### Project 3: [Project Name]
-**Duration**: [Start Date] - [End Date]  
-**Technologies**: [List technologies]
-
-Description of your project.
-
-[[GitHub]](#)
+### 1. Review: Quantum Error Correction  
+**Type:** Literature Review  
+**Summary:**  
+Conducted a comprehensive literature review on quantum error correction, examining both foundational concepts and recent advancements in the field.
 
 ---
 
-## Presentations & Talks
-
-- **[Talk Title]**, [Venue/Conference], [Location], [Date]
-- **[Poster Title]**, [Conference Name], [Location], [Date]
-- **[Seminar Title]**, [Department/Institute], [Date]
-
----
-
-## Research Experience
-
-### Research Intern
-**[Organization/Lab Name]** | [Location] | [Duration]
-
-Brief description of your research work during this internship.
-
-### Summer Research Fellow
-**[Organization/Lab Name]** | [Location] | [Duration]
-
-Brief description of your research work.
+### 2. Moore-Penrose Inverse for Tensors in ZNN  
+**Type:** Research Project (Paper Communicated)  
+**Summary:**  
+Developed and implemented algorithms for computing the Moore-Penrose inverse for tensors using ZNN (Z-order Neural Network). This work has been converted into a research paper and is currently under review.
 
 ---
 
-## Collaborators
+### 3. Differential Equation Solver on Non-uniform Meshes  
+**Type:** Computational Project  
+**Summary:**  
+Designed and analyzed numerical methods for solving differential equations on non-uniform meshes, focusing on improving stability and accuracy.
 
-- [Collaborator 1], [Institution]
-- [Collaborator 2], [Institution]
-- [Collaborator 3], [Institution]
+---
+
+## Publications
+
+- **Moore-Penrose Inverse for Tensors in ZNN**  
+  *Authors:* [Your Name, Collaborators]  
+  *Status:* Communicated
+
+---
+
+## Collaborators & Mentors
+
+- [Advisor’s Name], [Institution]
+- [Any Other Collaborators]
 
 ---
