@@ -10,7 +10,7 @@ title: Curriculum Vitae
 ---
 
 <!-- Profile Image -->
-<img src="assets/images/profile.jpg" alt="Shubham Ghodake" width="200" style="border-radius: 50%; display: block; margin: 20px auto;">
+<img src="assets/images/profile.png" alt="Shubham Ghodake" width="200" style="border-radius: 50%; display: block; margin: 20px auto;">
 
 ## Shubham S. Ghodake 
 **PhD Student**  
