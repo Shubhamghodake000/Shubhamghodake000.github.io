@@ -4,7 +4,7 @@ title: Curriculum Vitae
 ---
 # Curriculum Vitae
 
-[Download PDF](assets/cv/Shubham_Ghodake_CV.pdf)
+[Download PDF](assets/CV/Shubham_Ghodake_cv.pdf)
 
 ---
 
