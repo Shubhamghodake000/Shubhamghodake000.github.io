@@ -2,15 +2,17 @@
 layout: default
 title: Curriculum Vitae
 ---
-
 # Curriculum Vitae
 
-[Download PDF](#)
+<!-- PDF Download Link -->
+[Download PDF](assets/cv/Shubham_Ghodake_CV.pdf)
 
 ---
 
-## Shubham S. Ghodake 
+<!-- Profile Image -->
+<img src="assets/images/profile.jpg" alt="Shubham Ghodake" width="200" style="border-radius: 50%; display: block; margin: 20px auto;">
 
+## Shubham S. Ghodake 
 **PhD Student**  
 Department of Computational & Data Sciences  
 Indian Institute of Science (IISc), Bangalore, India
@@ -41,7 +43,6 @@ Indian Institute of Science (IISc), Bangalore, India
 ---
 
 ## Research Interests
-
 - Tensor Analysis and Tensor Decomposition Methods
 - Quantum Computation and Quantum Information Theory
 - Computational Mathematics
@@ -107,17 +108,14 @@ Indian Institute of Science (IISc), Bangalore, India
 ## Publications
 
 ### Conference Papers
-
 *Coming soon...*
 
 ### Journal Articles
-
 *Coming soon...*
 
 ---
 
 ## Projects
-
 *Details of research projects will be updated soon...*
 
 ---
@@ -134,7 +132,6 @@ Indian Institute of Science (IISc), Bangalore, India
 ---
 
 ## Professional Memberships
-
 *To be updated...*
 
 ---
