@@ -4,23 +4,27 @@ title: Curriculum Vitae
 ---
 # Curriculum Vitae
 
-<!-- PDF Download Link -->
 [Download PDF](assets/cv/Shubham_Ghodake_CV.pdf)
 
 ---
 
-<!-- Profile Image -->
-<img src="assets/images/profile.png" alt="Shubham Ghodake" width="200" style="border-radius: 50%; display: block; margin: 20px auto;">
-
-## Shubham S. Ghodake 
-**PhD Student**  
-Department of Computational & Data Sciences  
-Indian Institute of Science (IISc), Bangalore, India
-
-**Email**: sgshubham@iisc.ac.in  
-**Phone**: (+91) 9637353238  
-**GitHub**: [Zeus9637353238](https://github.com/Zeus9637353238)  
-**LinkedIn**: [Shubham Ghodake](https://linkedin.com/in/shubham-ghodake-2b7a221b1)
+<div style="display: flex; align-items: flex-start; gap: 30px; margin-bottom: 30px;">
+  <div style="flex: 1;">
+    <h2>Shubham S. Ghodake</h2>
+    <p><strong>PhD Student</strong><br>
+    Department of Computational & Data Sciences<br>
+    Indian Institute of Science (IISc), Bangalore, India</p>
+    
+    <p><strong>Email</strong>: sgshubham@iisc.ac.in<br>
+    <strong>Phone</strong>: (+91) 9637353238<br>
+    <strong>GitHub</strong>: <a href="https://github.com/Shubhamghodake000">Shubhamghodake000</a><br>
+    <strong>LinkedIn</strong>: <a href="https://linkedin.com/in/shubham-ghodake-2b7a221b1">Shubham Ghodake</a></p>
+  </div>
+  
+  <div style="flex-shrink: 0;">
+    <img src="assets/images/profile.jpg" alt="Shubham Ghodake" width="200" height="200" style="object-fit: cover; border: 2px solid #ddd;">
+  </div>
+</div>
 
 ---
 
