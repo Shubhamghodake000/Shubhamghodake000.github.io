@@ -12,7 +12,7 @@ This project analyzes India's Defence and R&D budget trends using data from data
 ### Visualizations
 
 #### 1. Line Plot - Defence Budget Trends Over Time
-<img src="https://raw.githubusercontent.com/Shubhamghodake000/Defence_budget_visualization_project/main/visualization/1_line_plot.png" alt="Defence Budget Trends" style="width:90%; max-width:600px;">
+<img src="https://raw.githubusercontent.com/Shubhamghodake000/Defence_budget_visualization_project/main/visualization/1_line_plot.png" alt="Defence Budget Trends" style="width:90%; max-width:700px;">
 
 **Observations:** Both defence and R&D budgets show exponential growth over 52 years, with total defence budget increasing from ₹313 Crores (1961-62) to ₹203,672.1 Crores (2013-14).
 
