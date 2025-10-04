@@ -14,30 +14,29 @@ My primary research interests are in quantum computing, with a special focus on 
 ## PhD Coursework
 
 I have completed 24 credits of rigorous PhD-level coursework, including:
-- Quantum Computation and Information
-- Quantum Algorithms
-- Quantum Error Correction
-- (Add any other relevant advanced courses here)
+- QY207: Introduction to Quantum Computing
+- DS394: Scientific Computing with Quantum Algorithm
+- E2 210: Quantum Error Correcting Codes
+- DS285: Tensor Computation for Data Science
 
 ---
 
 ## Projects
 
-### 1. Review: Quantum Error Correction  
+### 1. Review: Efficient Computations of Encodings for Quantum Error Correction  
 **Type:** Literature Review  
 **Summary:**  
-Conducted a comprehensive literature review on quantum error correction, examining both foundational concepts and recent advancements in the field.
+In this report, we analyze different methods to construct an efficient gate array that computes the code words for any stabilizer code with any set of generators. We present both standard and fault-tolerant approaches to encoding implementation, with a focus on minimizing gate complexity while maintaining error correction capabilities.
 
 ---
 
-### 2. Moore-Penrose Inverse for Tensors in ZNN  
+### 2. Zeroing neural network model for finding Moore Penrose inverse of time-varying tensors with applications in imaging
 **Type:** Research Project (Paper Communicated)  
 **Summary:**  
-Developed and implemented algorithms for computing the Moore-Penrose inverse for tensors using ZNN (Z-order Neural Network). This work has been converted into a research paper and is currently under review.
-
+Developed and implemented algorithms for computing the Moore-Penrose inverse for time varying tensors under M-product architecture usinf zeroing neural networks (ZNN).Currently this work is under review.
 ---
 
-### 3. Differential Equation Solver on Non-uniform Meshes  
+### 3. Analysis of Linear Convection-dominated Singularly Perturbed Problem over Uniform and Non-uniform meshes 
 **Type:** Computational Project  
 **Summary:**  
 Designed and analyzed numerical methods for solving differential equations on non-uniform meshes, focusing on improving stability and accuracy.
@@ -46,15 +45,9 @@ Designed and analyzed numerical methods for solving differential equations on no
 
 ## Publications
 
-- **Moore-Penrose Inverse for Tensors in ZNN**  
-  *Authors:* [Your Name, Collaborators]  
+- **Zeroing neural network model for finding Moore Penrose inverse of time-varying tensors with applications in imaging**  
+  *Authors:* Shubham Ghodakea, Dr. Ratikanta Beheraa, Dr. Predrag S. Stanimirovi´c  
   *Status:* Communicated
 
 ---
 
-## Collaborators & Mentors
-
-- [Advisor’s Name], [Institution]
-- [Any Other Collaborators]
-
----
