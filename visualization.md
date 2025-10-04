@@ -9,22 +9,25 @@ title: Data Visualizations
 
 This project analyzes India's Defence and R&D budget trends using data from data.gov.in, covering the period from 1961-62 to 2013-14.
 
-### Visualizations
-
 #### 1. Line Plot - Defence Budget Trends Over Time
 <img src="https://raw.githubusercontent.com/Shubhamghodake000/Defence_budget_visualization_project/main/visualization/1_line_plot.png" alt="Defence Budget Trends">
 
 **Observations:** Both defence and R&D budgets show exponential growth over 52 years, with total defence budget increasing from ₹313 Crores (1961-62) to ₹203,672.1 Crores (2013-14).
 
 #### 2. Bar Plot - Year-wise Budget Comparison
-<img src="https://raw.githubusercontent.com/Shubhamghodake000/Defence_budget_visualization_project/main/visualization/2_bar_plot.png" alt="Year-wise Comparison" style="width:60%; max-width:450px;">
+<img src="https://raw.githubusercontent.com/Shubhamghodake000/Defence_budget_visualization_project/main/visualization/2_bar_plot.png" alt="Year-wise Comparison">
 
 **Observations:** Side-by-side comparison reveals R&D allocations maintain a consistent proportion of total defence spending, with notable acceleration post-2000.
 
 #### 3. Scatter Plot - Correlation Analysis
-<img src="https://raw.githubusercontent.com/Shubhamghodake000/Defence_budget_visualization_project/main/visualization/3_scatter_plot.png" alt="Correlation Analysis" style="width:60%; max-width:450px;">
+<img src="https://raw.githubusercontent.com/Shubhamghodake000/Defence_budget_visualization_project/main/visualization/3_scatter_plot.png" alt="Correlation Analysis">
 
 **Observations:** Strong positive correlation (0.9954) indicates R&D budget planning is systematically tied to overall defence spending levels.
+
+#### 4. Line Plot - R&D Percentage Trend
+<img src="https://raw.githubusercontent.com/Shubhamghodake000/Defence_budget_visualization_project/main/visualization/4_percentage_trend.png" alt="Correlation Analysis">
+
+**Observations:** 
 
 ### Key Findings
 
