@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: website
 title: Data Visualizations
 ---
 
@@ -12,17 +12,17 @@ This project analyzes India's Defence and R&D budget trends using data from data
 ### Visualizations
 
 #### 1. Line Plot - Defence Budget Trends Over Time
-![Defence Budget Trends](https://raw.githubusercontent.com/[your-username]/[plots-repo-name]/main/visualization/1_line_plot.png)
+![Defence Budget Trends](https://raw.githubusercontent.com/Shubhamghodake000/Defence_budget_visualization_project/main/visualization/1_line_plot.png)
 
 **Observations:** Both defence and R&D budgets show exponential growth over 52 years, with total defence budget increasing from ₹313 Crores (1961-62) to ₹203,672.1 Crores (2013-14).
 
 #### 2. Bar Plot - Year-wise Budget Comparison
-![Year-wise Comparison](https://raw.githubusercontent.com/[your-username]/[plots-repo-name]/main/visualization/2_bar_plot.png)
+![Year-wise Comparison](https://raw.githubusercontent.com/Shubhamghodake000/Defence_budget_visualization_project/main/visualization/2_bar_plot.png)
 
 **Observations:** Side-by-side comparison reveals R&D allocations maintain a consistent proportion of total defence spending, with notable acceleration post-2000.
 
 #### 3. Scatter Plot - Correlation Analysis
-![Correlation Analysis](https://raw.githubusercontent.com/[your-username]/[plots-repo-name]/main/visualization/3_scatter_plot.png)
+![Correlation Analysis](https://raw.githubusercontent.com/Shubhamghodake000/Defence_budget_visualization_project/main/visualization/3_scatter_plot.png)
 
 **Observations:** Strong positive correlation (0.9954) indicates R&D budget planning is systematically tied to overall defence spending levels.
 
@@ -40,7 +40,7 @@ This project analyzes India's Defence and R&D budget trends using data from data
 **Source:** [data.gov.in](https://data.gov.in/)
 
 ### View Complete Analysis
-**GitHub Repository:** [Defence Budget Analysis Project](https://github.com/[your-username]/[plots-repo-name])
+**GitHub Repository:** [Defence Budget Analysis Project](https://github.com/Shubhamghodake000/Defence_budget_visualization_project)
 
 ---
 
