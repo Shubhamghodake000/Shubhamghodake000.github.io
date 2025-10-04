@@ -76,11 +76,7 @@ main {
 }
 
 main img {
-  display: block;
-  margin: 2rem auto;
-  max-width: 700px;   /* You can set this to any preferred max width */
-  width: 100%;        /* Makes images responsive on smaller screens */
+  max-width: 90vw;   /* never wider than 90% of viewport */
+  width: 100%;
   height: auto;
-  border-radius: 10px;
-  box-shadow: 0 2px 16px rgba(0,0,0,0.06);
 }
