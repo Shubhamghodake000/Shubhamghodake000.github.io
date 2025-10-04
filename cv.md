@@ -22,7 +22,7 @@ title: Curriculum Vitae
   </div>
   
   <div style="flex-shrink: 0;">
-    <img src="assets/images/profile.jpg" alt="Shubham Ghodake" width="200" height="200" style="object-fit: cover; border: 2px solid #ddd;">
+    <img src="assets/images/profile.png" alt="Shubham Ghodake" width="200" height="200" style="object-fit: cover; border: 2px solid #ddd;">
   </div>
 </div>
 
