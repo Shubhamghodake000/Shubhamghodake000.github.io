@@ -43,10 +43,9 @@ Indian Institute of Science (IISc), Bangalore, India
 ## Research Interests
 
 - Tensor Analysis and Tensor Decomposition Methods
-- Machine Learning and Deep Learning
 - Quantum Computation and Quantum Information Theory
 - Computational Mathematics
-- Data Science and Scientific Computing
+- Machine Learning and Deep Learning
 
 ---
 
@@ -78,16 +77,17 @@ Indian Institute of Science (IISc), Bangalore, India
 
 **2018**  
 - Attended **mini-MTTS program** at Pune organized by National Board for Higher Mathematics (November 2018)
+- Participated in the workshop on **'Alternative Pedagogical Approach towards Laboratory Education in Chemistry'**
 
 ---
 
 ## Technical Skills
 
-**Programming Languages**: Python, MATLAB, R
+**Programming Languages**: Python, MATLAB
 
 **Machine Learning & Data Science**: TensorFlow, PyTorch, scikit-learn, NumPy, Pandas
 
-**Quantum Computing**: Qiskit, Cirq
+**Quantum Computing**: Qiskit, Pennylane
 
 **Mathematical Software**: SAGEMATH, Mathematica
 
@@ -122,18 +122,10 @@ Indian Institute of Science (IISc), Bangalore, India
 
 ---
 
-## Extra-Curricular Activities
-
-**2018**  
-- Participated in the workshop on **'Alternative Pedagogical Approach towards Laboratory Education in Chemistry'**
-
----
-
 ## Teaching Experience
 
-**Teaching Assistant** | IISc Bangalore | 2024 - Present
-
-*Courses to be updated...*
+**Teaching Assistant** | IISc Bangalore | 2025 August Term
+- DS288/UMC202 Numerical Methods 
 
 **Assistant Professor** | Dr. D.Y. Patil Institute of Technology | Nov 2022 - Jun 2024
 - Taught undergraduate mathematics courses
@@ -144,12 +136,6 @@ Indian Institute of Science (IISc), Bangalore, India
 ## Professional Memberships
 
 *To be updated...*
-
----
-
-## References
-
-Available upon request.
 
 ---
 
