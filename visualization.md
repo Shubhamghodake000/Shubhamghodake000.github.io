@@ -1,5 +1,5 @@
 ---
-layout: website
+layout: default
 title: Data Visualizations
 ---
 
