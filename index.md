@@ -36,7 +36,7 @@ Banaras Hindu University, Varanasi
 
 ### Contact
 **Email**: [sgshubham@iisc.ac.in](mailto:sgshubham@iisc.ac.in)  
-**GitHub**: [Zeus9637353238](https://github.com/Shubhamghodake000)  
+**GitHub**: [Shubhamghodake000](https://github.com/Shubhamghodake000)  
 **LinkedIn**: [Shubham Ghodake](https://linkedin.com/in/shubham-ghodake-2b7a221b1)
 
 ---
