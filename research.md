@@ -14,7 +14,7 @@ My primary research interests are in quantum computing, with a special focus on 
 ## PhD Coursework
 
 Related coursework subjects includes:
-- QY207: Introduction to Quantum Computing
+- QT207: Introduction to Quantum Computing
 - DS394: Scientific Computing with Quantum Algorithm
 - E2 210: Quantum Error Correcting Codes
 - DS285: Tensor Computation for Data Science
