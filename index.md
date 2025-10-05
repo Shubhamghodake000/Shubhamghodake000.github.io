@@ -8,7 +8,7 @@ title: Home
     <img src="assets/images/profile.png" alt="Shubham Ghodake" width="200" height="200" style="object-fit: cover; border: 2px solid #ddd; border-radius: 10px;">
   </div>
   <div>
-    <h1 style="margin-top: 0;">Shubham S. Ghodake</h1>
+    <!-- <h1 style="margin-top: 0;">Shubham S. Ghodake</h1> -->
     <h2>About Me</h2>
     <p>I am a second-year PhD student at the <strong>Department of Computational and Data Sciences</strong>, <strong>Indian Institute of Science (IISc) Bangalore</strong>, where I work at the intersection of mathematics, computation, and quantum information theory under the guidance of <strong>Dr. Ratikanta Behera</strong>. My research focuses on <strong>tensor analysis</strong>, <strong>machine learning</strong>, and <strong>quantum computation</strong>. I am a <strong>Junior Research Fellowship (JRF)</strong> scholarship holder, which supports my doctoral research at IISc. Outside of research, I enjoy baking, drawing, and reading manga—activities that provide a creative counterbalance to my mathematical work.</p>
   </div>
