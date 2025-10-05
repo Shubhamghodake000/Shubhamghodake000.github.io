@@ -47,7 +47,7 @@ This project analyzes India's Defence and R&D budget trends using data from data
 **Source:** [data.gov.in](https://data.gov.in/)
 
 ### View Complete Analysis
-**GitHub Repository:** [Defence Budget Analysis Project](https://github.com/Shubhamghodake000/Defence_budget_visualization_project)
+**GitHub Repository:** [Defence Budget Analysis Project](https://github.com/Shubhamghodake000/Defence_budget_visualization_project) \\
 **Project Structure**
 ```
 defence-budget-analysis/
