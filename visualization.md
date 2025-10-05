@@ -48,6 +48,19 @@ This project analyzes India's Defence and R&D budget trends using data from data
 
 ### View Complete Analysis
 **GitHub Repository:** [Defence Budget Analysis Project](https://github.com/Shubhamghodake000/Defence_budget_visualization_project)
-
+## Project Structure
+```
+defence-budget-analysis/
+│
+├── Defence_budget.ipynb                    # Main Jupyter notebook with analysis
+├── Departofdefence_RandD_budgetover_1.csv  # Dataset file
+├── README.md                               # Project documentation
+│
+└── Visualization/                                  
+    ├── 1_line_plot.png                    # Line plot showing budget trends
+    ├── 2_bar_plot.png                     # Bar plot comparing budgets year-wise
+    ├── 3_scatter_plot.png                 # Scatter plot showing correlation
+    └── 4_percentage_trend.png             # R&D percentage trend over time
+```
 ---
 *Analysis performed using Python, pandas, matplotlib, and seaborn*
