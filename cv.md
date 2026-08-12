@@ -2,142 +2,137 @@
 layout: default
 title: Curriculum Vitae
 ---
-# Curriculum Vitae
 
-[Download PDF](assets/CV/Shubham_ghodake_cv.pdf)
-
----
-
-<div style="display: flex; align-items: flex-start; gap: 30px; margin-bottom: 30px;">
-  <div style="flex: 1;">
-    <h2>Shubham S. Ghodake</h2>
-    <p><strong>PhD Student</strong><br>
-    Department of Computational & Data Sciences<br>
-    Indian Institute of Science (IISc), Bangalore, India</p>
-    
-    <p><strong>Email</strong>: sgshubham@iisc.ac.in<br>
-    <strong>Phone</strong>: (+91) 9637353238<br>
-    <strong>GitHub</strong>: <a href="https://github.com/Shubhamghodake000">Shubhamghodake000</a><br>
-    <strong>LinkedIn</strong>: <a href="https://linkedin.com/in/shubham-ghodake-2b7a221b1">Shubham Ghodake</a></p>
+<div class="hero">
+  <div class="hero-photo">
+    <img src="assets/images/profile.png" alt="Shubham Ghodake">
   </div>
-  
-  <div style="flex-shrink: 0;">
-    <img src="assets/images/profile.png" alt="Shubham Ghodake" width="200" height="200" style="object-fit: cover; border: 2px solid #ddd;">
+  <div>
+    <h1 class="hero-name">Shubham S. Ghodake</h1>
+    <p class="hero-role">PhD Student &middot; Computational &amp; Data Sciences &middot; IISc Bangalore</p>
+    <div class="contact-row">
+      <a href="mailto:sgshubham@iisc.ac.in">sgshubham@iisc.ac.in</a>
+      <a href="tel:+919637353238">+91 96373 53238</a>
+      <a href="https://github.com/Shubhamghodake000">GitHub</a>
+      <a href="https://linkedin.com/in/shubham-ghodake-2b7a221b1">LinkedIn</a>
+    </div>
   </div>
 </div>
 
----
+<p><a class="btn" href="assets/CV/Shubham_ghodake_cv.pdf">Download PDF</a></p>
 
-## Education
+<h2><span class="eyebrow">Timeline</span>Education</h2>
+<div class="timeline">
+  <div class="timeline-item">
+    <span class="timeline-date">2024 &ndash; Present</span>
+    <h3>PhD in Engineering &middot; Computational &amp; Data Science</h3>
+    <p>Indian Institute of Science (IISc), Bangalore, India<br>
+    Thesis: Tensor Analysis &amp; Applications (tentative) &middot; Supervisor: Dr. Ratikanta Behera</p>
+  </div>
+  <div class="timeline-item">
+    <span class="timeline-date">2022</span>
+    <h3>M.Sc, Mathematics</h3>
+    <p>Banaras Hindu University, Varanasi, India &middot; CGPA 8.25/10.00</p>
+  </div>
+  <div class="timeline-item">
+    <span class="timeline-date">2020</span>
+    <h3>B.Sc, Mathematics</h3>
+    <p>Abasaheb Garware College, Pune, Maharashtra, India &middot; 92.91%</p>
+  </div>
+</div>
 
-**Doctor of Philosophy (PhD) in Engineering** | 2024 - Present  
-*Computational and Data Science*  
-Indian Institute of Science (IISc), Bangalore, India  
-**Thesis**: Tensor Analysis & Applications (tentative)  
-**Supervisor**: Dr. Ratikanta Behera
+<h2><span class="eyebrow">Focus</span>Research Interests</h2>
+<ul class="tag-row">
+  <li class="tag">Tensor Analysis &amp; Decomposition</li>
+  <li class="tag">Quantum Computation</li>
+  <li class="tag">Quantum Information Theory</li>
+  <li class="tag">Computational Mathematics</li>
+  <li class="tag">Machine Learning &amp; Deep Learning</li>
+</ul>
 
-**Master of Science (M.Sc.) in Mathematics** | 2022  
-*Banaras Hindu University*, Varanasi, India  
-**CGPA**: 8.25/10.00
+<h2><span class="eyebrow">Work</span>Experience</h2>
+<div class="timeline">
+  <div class="timeline-item">
+    <span class="timeline-date">Nov 2022 &ndash; Jun 2024</span>
+    <h3>Assistant Professor</h3>
+    <p>Dr. D.Y. Patil Institute of Technology<br>
+    Taught undergraduate mathematics courses, developed course materials and assessments, and mentored students in academic projects.</p>
+  </div>
+</div>
 
-**Bachelor of Science (B.Sc.) in Mathematics** | 2020  
-*Abasaheb Garware College*, Pune, Maharashtra, India  
-**Percentage**: 92.91%
+<h2><span class="eyebrow">Recognition</span>Academic Achievements</h2>
+<div class="timeline">
+  <div class="timeline-item">
+    <span class="timeline-date">2024</span>
+    <p>Qualified GATE 2024 (Paper Code: MA)</p>
+  </div>
+  <div class="timeline-item">
+    <span class="timeline-date">2023</span>
+    <p>Qualified CSIR NET for JRF, December 2023 &middot; All India Rank 193 (Paper Code: MA)<br>
+    Qualified CSIR NET for JRF, June 2023 &middot; All India Rank 237 (Paper Code: MA)<br>
+    Qualified Maharashtra SET Exam for Assistant Professor, March 2023 (Paper Code: MA)</p>
+  </div>
+  <div class="timeline-item">
+    <span class="timeline-date">2022</span>
+    <p>Qualified CSIR NET for Lectureship, June 2022 &middot; All India Rank 165 (Paper Code: MA)</p>
+  </div>
+  <div class="timeline-item">
+    <span class="timeline-date">2020</span>
+    <p>Awarded the Late Padmashree Dr. Abasaheb Garware Memorial Award for first place among all subjects, final year B.Sc.</p>
+  </div>
+  <div class="timeline-item">
+    <span class="timeline-date">2018</span>
+    <p>Attended the mini-MTTS programme at Pune, organized by the National Board for Higher Mathematics (November 2018).<br>
+    Participated in the workshop &ldquo;Alternative Pedagogical Approach towards Laboratory Education in Chemistry.&rdquo;</p>
+  </div>
+</div>
 
----
+<h2><span class="eyebrow">Toolkit</span>Technical Skills</h2>
+<ul class="tag-row">
+  <li class="tag">Python</li>
+  <li class="tag">MATLAB</li>
+  <li class="tag">TensorFlow</li>
+  <li class="tag">PyTorch</li>
+  <li class="tag">scikit-learn</li>
+  <li class="tag">NumPy</li>
+  <li class="tag">Pandas</li>
+  <li class="tag">Qiskit</li>
+  <li class="tag">Pennylane</li>
+  <li class="tag">SageMath</li>
+  <li class="tag">Mathematica</li>
+  <li class="tag">Git</li>
+  <li class="tag">LaTeX</li>
+  <li class="tag">Jupyter</li>
+  <li class="tag">Linux</li>
+</ul>
 
-## Research Interests
-- Tensor Analysis and Tensor Decomposition Methods
-- Quantum Computation and Quantum Information Theory
-- Computational Mathematics
-- Machine Learning and Deep Learning
+<h2><span class="eyebrow">Coursework</span>NPTEL Certifications</h2>
+<ul class="tag-row">
+  <li class="tag">Computational Mathematics with SAGEMATH (2022)</li>
+  <li class="tag">Laplace Transform (2022)</li>
+  <li class="tag">Programming, Data Structures &amp; Algorithms with Python (2022)</li>
+</ul>
 
----
+<h2><span class="eyebrow">In print</span>Publications</h2>
+<p><em>Conference papers &mdash; coming soon.</em><br>
+<em>Journal articles &mdash; coming soon.</em></p>
 
-## Work Experience
+<h2><span class="eyebrow">Work</span>Projects</h2>
+<p>See the full write-ups on the <a href="{{ '/research' | relative_url }}">Research &amp; Projects</a> page.</p>
 
-**Assistant Professor** | Nov 2022 - Jun 2024  
-*Dr. D.Y. Patil Institute of Technology*
-- Taught undergraduate mathematics courses
-- Developed course materials and assessments
-- Mentored students in academic projects
+<h2><span class="eyebrow">Work</span>Teaching Experience</h2>
+<div class="timeline">
+  <div class="timeline-item">
+    <span class="timeline-date">Aug 2025</span>
+    <h3>Teaching Assistant</h3>
+    <p>IISc Bangalore &middot; DS288 / UMC202 Numerical Methods</p>
+  </div>
+  <div class="timeline-item">
+    <span class="timeline-date">Nov 2022 &ndash; Jun 2024</span>
+    <h3>Assistant Professor</h3>
+    <p>Dr. D.Y. Patil Institute of Technology &middot; Taught undergraduate mathematics, developed curriculum and course materials.</p>
+  </div>
+</div>
 
----
-
-## Academic Achievements
-
-**2024**  
-- Qualified **GATE 2024** (Paper Code: MA)
-
-**2023**  
-- Qualified **CSIR NET for JRF** (December 2023) with **All India Rank 193** (Paper Code: MA)
-- Qualified **CSIR NET for JRF** (June 2023) with **All India Rank 237** (Paper Code: MA)
-- Qualified **Maharashtra SET Exam** for Assistant Professor (March 2023) (Paper Code: MA)
-
-**2022**  
-- Qualified **CSIR NET for Lectureship** (June 2022) with **All India Rank 165** (Paper Code: MA)
-
-**2020**  
-- Awarded **Late Padmashree Dr. Abasaheb Garware Memorial Award** for securing First place among all subjects at final year B.Sc.
-
-**2018**  
-- Attended **mini-MTTS program** at Pune organized by National Board for Higher Mathematics (November 2018)
-- Participated in the workshop on **'Alternative Pedagogical Approach towards Laboratory Education in Chemistry'**
-
----
-
-## Technical Skills
-
-**Programming Languages**: Python, MATLAB
-
-**Machine Learning & Data Science**: TensorFlow, PyTorch, scikit-learn, NumPy, Pandas
-
-**Quantum Computing**: Qiskit, Pennylane
-
-**Mathematical Software**: SAGEMATH, Mathematica
-
-**Tools & Technologies**: Git, LaTeX, Jupyter Notebooks, Linux
-
----
-
-## NPTEL Certifications
-
-**2022**
-- Computational Mathematics with SAGEMATH
-- Laplace Transform
-- Programming Data Structures And Algorithms Using Python
-
----
-
-## Publications
-
-### Conference Papers
-*Coming soon...*
-
-### Journal Articles
-*Coming soon...*
-
----
-
-## Projects
-*Details of research projects will be updated soon...*
-
----
-
-## Teaching Experience
-
-**Teaching Assistant** | IISc Bangalore | 2025 August Term
-- DS288/UMC202 Numerical Methods 
-
-**Assistant Professor** | Dr. D.Y. Patil Institute of Technology | Nov 2022 - Jun 2024
-- Taught undergraduate mathematics courses
-- Developed curriculum and course materials
-
----
-
-## Professional Memberships
-*To be updated...*
-
----
-
-*Last Updated: October 2024*
+<h2><span class="eyebrow">Affiliations</span>Professional Memberships</h2>
+<p><em>To be updated.</em></p>
